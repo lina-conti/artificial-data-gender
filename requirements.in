@@ -1,0 +1,8 @@
+conllu==4.5.2
+numpy==1.24.3
+pandas==2.0.1
+pcfg==0.1.5
+scikit-learn==1.2.2
+seaborn==0.12.2
+torch==2.0.1
+tqdm==4.65.0

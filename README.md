@@ -7,7 +7,7 @@ Each experiment can be run on an individual Jupyter Notebook.
 All notebooks rely on the code in the folder `Lm4Ling` and on the file `full_vocab.json` containing vocabulary taken 
 from the [Universal Dependencies](https://github.com/UniversalDependencies/UD_French-GSD) project to build the PCFGs.
 
-`full_vocab.json` was built using the code in [UD2vocabulary.ipynb](https://github.com/lina-conti/artificial-data-gender/blob/main/UD2vocabulary.ipynb).
+`full_vocab.json` was built using the code in [generate_vocab.ipynb](https://github.com/lina-conti/artificial-data-gender/blob/main/generate_vocab.ipynb).
 
 The implementation of a transformer language model is taken from [Benoît Crabbé](https://github.com/bencrabbe)'s `Lm4Ling` repository.
 
